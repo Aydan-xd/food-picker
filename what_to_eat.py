@@ -1,6 +1,6 @@
 import random
 
-cusine = ['American', 'Japanese', 'Chinese', 'Italian', 'French', 'Idian']
+cusine = ['American', 'Japanese', 'Chinese']
 
 
 home_foods = ['Chicken and rice', 'Steak', 'Porksteak', 'Spahgetti', 'Fetachini alfredo', 'Crab', 'Tuna and noodles']
